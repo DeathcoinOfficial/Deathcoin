@@ -1,9 +1,9 @@
-## Welcome to Deathcoin 
-(Token symbol: DIE)
+## <p align="center"> Welcome to Deathcoin</p> 
+<p align="center">(Token symbol: DIE)</p> 
 
 ![images](https://pbs.twimg.com/media/EfH5EyUXkAA5Jse.png)
 
-### What is Deathcoin
+### What is Deathcoin?
 Deathcoin is a technology that united all investors who have been involved in scam and Ponzi projects. These investors usually never learn. 
 
 ``Fool me once, shame on you! Fool me twice?``
