@@ -1,3 +1,3 @@
-remote_theme: kippt/jekyll-incorporated
-
+remote_theme: zerostaticthemes/jekyll-serif-theme
+baseurl: "/jekyll-serif-theme/"
 #theme: jekyll-theme-merlot
