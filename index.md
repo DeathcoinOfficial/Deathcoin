@@ -25,6 +25,11 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 - [x] Diamand hands
 - [ ] Gay bears
 
+# How to get Deathcoin?
+1. You can go to a decentralized exchange like [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER) to buy Deathcoin (DIE). 
+2. You can support our Twitter by retweeting our post and send back a screen capture of your retweet. 
+3. If you are a victim of Troncase, you can send it to us on Twitter and we will send Deathcoin to you. 
+
 
 ### Community
 The community has built a booming digital economy, bold new ways for creators to hedge against scams online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet.
