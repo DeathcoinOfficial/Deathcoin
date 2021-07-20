@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="500" height="240" src="https://pbs.twimg.com/media/EfH5EyUXkAA5Jse.png">
-</p>
+![image](https://pbs.twimg.com/media/EfH5EyUXkAA5Jse.png)
 
 
 ### What is Deathcoin?
@@ -17,9 +15,7 @@ Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do
 
 ### A fairer financial system
 
-<p align="center">
-  <img width="500" height="280" src="https://i.ytimg.com/vi/gS7TH7ICMRk/maxresdefault.jpg">
-</p>
+![image](https://i.ytimg.com/vi/gS7TH7ICMRk/maxresdefault.jpg")
 
 Today, billions of people can’t open bank accounts, others have their loan blocked. Deathcoin's decentralized finance (DeFi) system never sleeps or discriminates. With just an internet connection, you can send, receive, borrow, earn interest, and even stream funds anywhere in the world.
 
