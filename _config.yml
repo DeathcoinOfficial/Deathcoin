@@ -5,4 +5,4 @@ show_downloads: "true"
 #google_analytics: [Your Google Analytics tracking ID]
 github:
   zip_url: https://www.tronlink.org/
-  #another_url: another value
+  tar_url: https://www.tronlink.org/
