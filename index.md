@@ -4,8 +4,7 @@
 ![images](https://pbs.twimg.com/media/EfH5EyUXkAA5Jse.png)
 
 ### What is Deathcoin
-Deathcoin is a technology that united all investors who have been involved in scam and ponzi projects. These investors usually never learn. The community has built a booming digital economy, bold new ways for creators to hedge against scams online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet.
-
+Deathcoin is a technology that united all investors who have been involved in scam and ponzi projects. These investors usually never learn. 
 
 ``Fool me once shame on you! Fool me twice?``
 
@@ -15,6 +14,10 @@ One of our founding father died of acute propofol intoxication after a massive l
 
 ### Get started
 https://deathcoinofficial.github.io/Deathcoin/ is your portal into the world of Deathcoin. The tech is new and ever-evolving – it helps to have a guide. Here's what we recommend you do if you want to dive in.
+
+
+### Community
+The community has built a booming digital economy, bold new ways for creators to hedge against scams online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet.
 
 ### Get DIE
 DIE is the currency of Deathcoin - you can use it in a funeral or donation.
