@@ -6,7 +6,7 @@
 ### What is Deathcoin
 Deathcoin is a technology that united all investors who have been involved in scam and ponzi projects. These investors usually never learn. 
 
-``Fool me once shame on you! Fool me twice?``
+``Fool me once, shame on you! Fool me twice?``
 
 Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. DIE is fully decentralized and there is no exit strategy for our core team member. Deathcoin’s price can only go up.
 
