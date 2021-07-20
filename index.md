@@ -36,7 +36,7 @@ The community has built a booming digital economy, bold new ways for creators to
 
 We will have our subreddit soon.
 
-![til](https://i.pinimg.com/originals/d6/ec/4a/d6ec4a1a81bf698b997922b07861c418.gif)
+![til](https://media.tenor.com/images/9eeb440b74b6faa7bf8563f12ba9a5c9/tenor.gif)
 
 
 ### Support or Contact
