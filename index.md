@@ -18,6 +18,9 @@ One of our founding father died of acute propofol intoxication after a massive l
 
 ### Community
 The community has built a booming digital economy, bold new ways for creators to hedge against scams online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet.
+- [x] Diamand hands
+- [ ] Gay bears
+
 
 ### Get DIE
 DIE is the currency of Deathcoin - you can use it in a funeral or donation.
