@@ -4,13 +4,13 @@
 ![images](https://pbs.twimg.com/media/EfH5EyUXkAA5Jse.png)
 
 ### What is Deathcoin
-Deathcoin is a technology that united all investors who have been involved in scam and ponzi projects. These investors usually never learn. 
+Deathcoin is a technology that united all investors who have been involved in scam and Ponzi projects. These investors usually never learn. 
 
 ``Fool me once, shame on you! Fool me twice?``
 
-Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. DIE is fully decentralized and there is no exit strategy for our core team member. Deathcoin’s price can only go up.
+Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. DIE is fully decentralized and there is no exit strategy for our core team members. Deathcoin’s price can only go up.
 
-One of our founding father died of acute propofol intoxication after a massive loss in participating a ponzi scheme. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
+One of our founding fathers died of acute propofol intoxication after a massive loss in participating in a Ponzi scheme. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
 
 ### Get started
 [Deathcoin official website](https://deathcoinofficial.github.io/Deathcoin/) is your portal into the world of Deathcoin. The tech is new and ever-evolving – it helps to have a guide. Here's what we recommend you do if you want to dive in.
@@ -23,7 +23,7 @@ The community has built a booming digital economy, bold new ways for creators to
 
 
 ### Get DIE
-DIE is the currency of Deathcoin - you can use it in a funeral or donation.
+DIE is the currency of Deathcoin - you can use it for a funeral or donation.
 
 ### Support or Contact
-Deathcoin (DIE) Free dopping will be coming soon. Check out our [twitter](https://support.github.com/contact) and we’ll help you sort it out!
+Deathcoin (DIE) Free dopping will be coming soon. Check out our [Twitter](https://support.github.com/contact) and we’ll help you sort it out!
