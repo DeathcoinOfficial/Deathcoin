@@ -12,7 +12,7 @@ Our doctrine is you can get fooled by all other shit coins, but Deathcoin will a
 
 One of our founding fathers died of acute propofol intoxication after a massive loss in participating in a Ponzi scheme. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
 
-Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do not bring flowers to a funeral, it is not environmentally friendly. Insert Deathcoins into the coffin.  
+Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do not bring flowers to a funeral, it is not environmentally friendly. Harness the power of Blockchain technology and send some real currency to your loved one. Insert Deathcoins into the coffin.  
 
 ### Get started
 [Deathcoin official website](https://deathcoinofficial.github.io/Deathcoin/) is your portal into the world of Deathcoin. The tech is new and ever-evolving – it helps to have a guide. Here's what we recommend you do if you want to dive in.
