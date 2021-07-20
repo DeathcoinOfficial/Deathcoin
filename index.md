@@ -1,4 +1,4 @@
-## <p align="center"> Welcome to Deathcoin</p> 
+ <p align="center"> ## Welcome to Deathcoin</p> 
 <p align="center">(Token symbol: DIE)</p> 
 
 ![images](https://pbs.twimg.com/media/EfH5EyUXkAA5Jse.png)
