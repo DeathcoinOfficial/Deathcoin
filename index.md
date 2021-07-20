@@ -12,6 +12,8 @@ Our doctrine is you can get fooled by all other shit coins, but Deathcoin will a
 
 One of our founding fathers died of acute propofol intoxication after a massive loss in participating in a Ponzi scheme. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
 
+Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do not bring flowers to a funeral, it is not environmentally friendly. Put some Deathcoins into the coffin.  
+
 ### Get started
 [Deathcoin official website](https://deathcoinofficial.github.io/Deathcoin/) is your portal into the world of Deathcoin. The tech is new and ever-evolving – it helps to have a guide. Here's what we recommend you do if you want to dive in.
 
@@ -21,9 +23,6 @@ The community has built a booming digital economy, bold new ways for creators to
 - [x] Diamand hands
 - [ ] Gay bears
 
-
-### Get DIE
-DIE is the currency of Deathcoin - you can use it for a funeral or donation.
 
 ### Support or Contact
 Deathcoin (DIE) Free dopping will be coming soon. Check out our [Twitter](https://support.github.com/contact) and we’ll help you sort it out!
