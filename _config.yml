@@ -3,3 +3,6 @@ title: Deathcoin
 description: The cryptocurrency designed to last eternally, ready to use in Hell.
 show_downloads: "true" 
 #google_analytics: [Your Google Analytics tracking ID]
+github:
+  zip_url: https://www.tronlink.org/
+  #another_url: another value
