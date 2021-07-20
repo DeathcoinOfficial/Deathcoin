@@ -8,7 +8,7 @@ Deathcoin is a technology that united all investors who have been involved in sc
 
 ``Fool me once shame on you! Fool me twice?``
 
-Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. There is no exit strategy for our team. Deathcoin’s price can only go up.
+Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. DIE is fully decentralized and there is no exit strategy for our core team member. Deathcoin’s price can only go up.
 
 One of our founding father died of acute propofol intoxication after a massive loss in participating a ponzi scheme. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
 
