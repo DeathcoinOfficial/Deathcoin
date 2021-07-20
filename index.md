@@ -15,6 +15,10 @@ One of our founding fathers died of acute propofol intoxication after a massive 
 
 Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do not bring flowers to a funeral, it is not environmentally friendly. Harness the power of Blockchain technology and send some real currency to your loved one. Insert Deathcoins into the coffin.  
 
+### A fairer financial system
+
+Today, billions of people can’t open bank accounts, others have their loan blocked. Deathcoin's decentralized finance (DeFi) system never sleeps or discriminates. With just an internet connection, you can send, receive, borrow, earn interest, and even stream funds anywhere in the world.
+
 ### Get started
 [Deathcoin official website](https://deathcoinofficial.github.io/Deathcoin/) is your portal into the world of Deathcoin. The tech is new and ever-evolving – it helps to have a guide. Here's what we recommend you do if you want to dive in.
 
