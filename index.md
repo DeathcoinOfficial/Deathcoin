@@ -36,5 +36,8 @@ The community has built a booming digital economy, bold new ways for creators to
 
 We will have our subreddit soon.
 
+![til](https://media4.giphy.com/media/Wr2747CnxwBSqyK6xt/200.gif)
+
+
 ### Support or Contact
 Deathcoin (DIE) Free dopping will be coming soon. Check out our [Twitter](https://support.github.com/contact) and we’ll help you sort it out!
