@@ -27,3 +27,4 @@ DIE is the currency of Deathcoin - you can use it in a funeral or donation.
 
 ### Support or Contact
 Deathcoin (DIE) Free dopping will be coming soon. Check out our [twitter](https://support.github.com/contact) and we’ll help you sort it out!
+
