@@ -4,5 +4,6 @@ description: The only cryptocurrency that is designed to last eternally, ready t
 show_downloads: "true" 
 #google_analytics: [Your Google Analytics tracking ID]
 github:
+  repository_url: https://github.com/DeathcoinOfficial/Source-code
   zip_url: https://www.tronlink.org/
   tar_url: https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER
