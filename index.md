@@ -13,7 +13,7 @@ Our doctrine is you can get fooled by all other shit coins, but Deathcoin will a
 One of our founding father died of acute propofol intoxication after a massive loss in participating a ponzi scheme. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
 
 ### Get started
-https://deathcoinofficial.github.io/Deathcoin/ is your portal into the world of Deathcoin. The tech is new and ever-evolving – it helps to have a guide. Here's what we recommend you do if you want to dive in.
+[Deathcoin official website](https://deathcoinofficial.github.io/Deathcoin/) is your portal into the world of Deathcoin. The tech is new and ever-evolving – it helps to have a guide. Here's what we recommend you do if you want to dive in.
 
 
 ### Community
