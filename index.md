@@ -10,7 +10,6 @@ Deathcoin (Token symbol: DIE) is a technology that united all investors who have
 Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. Deathcoin (DIE) is fully decentralized and there is no exit strategy for our core team members. Unlike other cryptocurrencies, Deathcoin is not a pump and dump coin. It is the cryptocurrency that you can trust. Deathcoin’s price can only go up and you will experience a perpetual Bull market in Deathcoin. You do not have to worry about your down payment, medical bill, kid's college tuition in the future. Deathcoin has got you covered. Plan your retirement with Deathcoin because it will stay until you die.
 
 ### Why Deathcoin?
-![image](https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/one-mourning-woman-at-a-funeral-comments-paul-noth.jpg)
 
 Deathcoin has a deep connection with the deceased. One of our founding fathers died of acute propofol intoxication after a massive loss in participating a Ponzi scheme. It is inevitable to get scammed, but Deathcoin will make you feel better because you know that you are richer than yesterday. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
 
