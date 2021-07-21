@@ -15,16 +15,16 @@ Deathcoin has a deep connection with the deceased. One of our founding fathers d
 
 Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do not bring flowers to a funeral, it is not environmentally friendly. Harness the power of Blockchain technology and send some real currency to your loved one. Insert Deathcoins into the coffin.  
 
+
+### Deathcoin as an insurance
+
+Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge other asset by controlling liqudity during with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. 
+
 ### A fairer financial system
 
 ![image](https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2020/02/components-of-Decentralized-finance.png)
 
 Today, billions of people can’t open bank accounts, others have their loan blocked. Deathcoin's decentralized finance (DeFi) system never sleeps or discriminates. With just an internet connection, you can send, receive, borrow, earn interest, and even stream funds anywhere in the world.
-
-
-### Deathcoin as an insurance
-Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge other asset by controlling liqudity during with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. 
-
 
 ### Get started
 [Deathcoin official website](https://deathcoinofficial.github.io/Deathcoin/) is your portal into the world of Deathcoin. The tech is new and ever-evolving – it helps to have a guide. Here's what we recommend you do if you want to dive in.
