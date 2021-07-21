@@ -22,8 +22,9 @@ Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, 
 
 
 ### Deathcoin smart insurance
-The Deathcoin smart insurance will protect you from all sorts of financial crisis. It is an intelligent, proprietary fail-safe mechanism designed and tested rigorously, by our industry researchers, built on top of the Trc20 blockchain with a smart contract.
-The smart contract is still under Beta phase and will be launched after our risk manager audit.
+The Deathcoin smart insurance will protect you from all sorts of financial crisis. It is an intelligent, proprietary fail-safe mechanism designed and tested rigorously, by our industry researchers, built on top of the Trc20 blockchain with a smart contract. During major financial crashes, our automated intelligent liqudity controlling system will retire a calculated amount of Deathcoin. The price of the remaining Deathcoin will rise and protect you from the gay bears.
+
+The smart contract is still under Beta phase and will be launched after our risk management analyst's audit.
 
 
 ### A fairer financial system
