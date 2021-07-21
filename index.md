@@ -42,8 +42,9 @@ Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, 
 3. If you are a victim of Troncase, you can send it to us on Twitter and we will send Deathcoin to you. 
 
 
-### Deathcoin smart contract
-Will be launched soon.
+### Deathcoin smart insurance
+The Deathcoin smart insurance will protect you from all sorts of financial crisis. It is an intelligent, proprietary fail-safe mechanism designed and tested rigorously, by our industry researchers, built on top of the Trc20 blockchain with a smart contract.
+The smart contract is still under Beta phase and will be launched after our risk manager audit.
 
 ### Community
 The community has built a booming digital economy, bold new ways for creators to hedge against scams online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet.
@@ -53,7 +54,7 @@ We will have our subreddit soon.
 ![til](https://media.tenor.com/images/9eeb440b74b6faa7bf8563f12ba9a5c9/tenor.gif)
 
 ### Our team
-We come from different fields. We are a team of engineer, professor, financial analyst, banker, doctor, lawyer, physicist. We all have one thing in common. We were victims of a ponzi scheme and we swore to protect everyone from a ponzi scheme.
+We come from different fields. We are a team of engineer, statistics professor, risk management analyst, banker, doctor, lawyer, physicist. We all have one thing in common. We were victims of a ponzi scheme and we swore to protect everyone from a ponzi scheme.
 
 
 ### Support or Contact
