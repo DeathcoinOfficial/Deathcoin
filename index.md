@@ -26,7 +26,7 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 - [ ] Gay bears
 
 # How to get Deathcoin?
-1. You can go to a decentralized exchange like [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER) to buy Deathcoin (DIE). Please note that you need TronLink to open [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER). Our Deathcoin is linked with Tron (Trx). More currency will be supported soon.
+1. You can go to a decentralized exchange like [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER) to buy Deathcoin (DIE). Please note that you need TronLink to open [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER). Copy this [link](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER) and paste it in your Tronlink browser. Our Deathcoin is linked with Tron (Trx). More currency will be supported soon.
 2. You can support our Twitter by retweeting our post and send back a screen capture of your retweet. 
 3. If you are a victim of Troncase, you can send it to us on Twitter and we will send Deathcoin to you. 
 
