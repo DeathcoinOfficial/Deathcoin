@@ -41,6 +41,7 @@ def smart_insurance(financial_crisis_indicator):
     when profit < crashed_pct:
       no_of_burned_coin = burn_deathcoin()
       print(f'Second layer of Fail safe mechanism activated, extra {no_of_burned_coin} Deathcoins have been sent to Hell.')
+      profit += get_deathcoin_profit()
       total += no_of_burned_coin
   print(f"Smart insurance have protected us. {total} Deathcoin have been sent to Hell. It died so we could live.")    
 ```
