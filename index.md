@@ -31,7 +31,7 @@ The Deathcoin smart insurance will protect you from all sorts of financial crisi
 
 The smart contract is currently under Alpha phase and will be launched after our risk management analyst's audit.
 
-```python
+```python code with syntax highlighting.
 def smart_insurance(financial_crisis_indicator):
 '''Pseudo code for Deathcoin smart insurance'''
   total = 0
