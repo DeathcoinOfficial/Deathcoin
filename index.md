@@ -59,7 +59,8 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 
 - [x] Diamand hands
 - [ ] Gay bears
-
+- [ ] Avoid scams
+- [x] Invest in Deathcoins
 
 ### How to get Deathcoin?
 
@@ -83,7 +84,7 @@ We will have our subreddit soon.
 
 
 ### Our team
-We come from different fields. We are a team of Engineer, Economist, Risk management analyst, Banker, Doctor, Lawyer and physicist. We all have one thing in common. We were victims of a ponzi scheme and we swore to protect everyone from a ponzi scheme.
+We come from different fields. We are a team of Engineer, Economist, Risk management analyst, Banker, Doctor, Lawyer and Physicist. We all have one thing in common. We were victims of a ponzi scheme and we swore to protect everyone from a ponzi scheme.
 
 
 ### Support or Contact
