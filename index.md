@@ -1,7 +1,7 @@
 ![image](https://pbs.twimg.com/media/EfH5EyUXkAA5Jse.png)
 
 
-### What is Deathcoin?
+# What is Deathcoin?
 
 Deathcoin (Token symbol: DIE) is a technology that united all investors who have been involved in scam and Ponzi projects. These investors usually never learn. 
 
@@ -25,7 +25,7 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 - [x] Diamand hands
 - [ ] Gay bears
 
-# How to get Deathcoin?
+### How to get Deathcoin?
 1. You can go to a decentralized exchange like [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER) to buy Deathcoin (DIE). Please note that you need [TronLink](https://www.tronlink.org/) to open [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER). Copy this [link](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER) and paste it in your Tronlink browser. Our Deathcoin is linked with Tron (Trx). More currency will be supported soon.
 2. You can support our Twitter by retweeting our post and send back a screen capture of your retweet. 
 3. If you are a victim of Troncase, you can send it to us on Twitter and we will send Deathcoin to you. 
