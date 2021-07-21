@@ -28,6 +28,21 @@ The Deathcoin smart insurance will protect you from all sorts of financial crisi
 
 The smart contract is still under Beta phase and will be launched after our risk management analyst's audit.
 
+```python
+def smart_insurance(financial_crisis_indicator):
+'''Pseudo code for Deathcoin smart insurance'''
+  total = 0
+  if financial_crisis_indicator > thresholds:
+    no_of_burned_coin = burn_deathcoin()
+    print(f'Fail safe mechanism activated, {no_of_burned_coin} number of Deathcoins have been sent to Hell.')
+    total += no_of_burned_coin
+    profit = get_deathcoin_profit()
+    when profit < financial_crisis_indicator:
+      no_of_burned_coin = burn_deathcoin()
+      print(f'Second layer of Fail safe mechanism activated, extra {no_of_burned_coin} Deathcoins have been sent to Hell.')
+      total += no_of_burned_coin
+  print(f"Smart insurance have protected us. {total} Deathcoin have been sent to Hell. It died so we could live.")    
+```
 
 ### A fairer financial system
 
