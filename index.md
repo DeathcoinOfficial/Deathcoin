@@ -21,7 +21,7 @@ Deathcoin - you can use it for a funeral, veneration of the dead or donation. No
 Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge against other asset by controlling liqudity with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. 
 
 > When the federal reserve dilutes and steal your money from your bank, Deathcoin will protect you humbly and earn you an extravagant profit. 
-> - Antonio, Our in-house Economist 
+> - Dr. Ho, Our in-house Economist 
 
 ### Deathcoin smart insurance
 The Deathcoin smart insurance will protect you from all sorts of financial crisis. It is an intelligent, proprietary fail-safe mechanism designed and tested rigorously, by our industry researchers, built on top of the Trc20 blockchain with a smart contract. During major financial crashes, our automated intelligent liqudity controlling system will retire a calculated amount of Deathcoin. The price of the remaining Deathcoin will rise and protect you from the gay bears.
