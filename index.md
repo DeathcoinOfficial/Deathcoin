@@ -18,7 +18,13 @@ Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do
 
 ### Deathcoin as an insurance
 
-Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge other asset by controlling liqudity during with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. 
+Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge other asset by controlling liqudity with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. 
+
+
+### Deathcoin smart insurance
+The Deathcoin smart insurance will protect you from all sorts of financial crisis. It is an intelligent, proprietary fail-safe mechanism designed and tested rigorously, by our industry researchers, built on top of the Trc20 blockchain with a smart contract.
+The smart contract is still under Beta phase and will be launched after our risk manager audit.
+
 
 ### A fairer financial system
 
@@ -41,10 +47,6 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 2. You can support our Twitter by retweeting our post and send back a screen capture of your retweet. 
 3. If you are a victim of Troncase, you can send it to us on Twitter and we will send Deathcoin to you. 
 
-
-### Deathcoin smart insurance
-The Deathcoin smart insurance will protect you from all sorts of financial crisis. It is an intelligent, proprietary fail-safe mechanism designed and tested rigorously, by our industry researchers, built on top of the Trc20 blockchain with a smart contract.
-The smart contract is still under Beta phase and will be launched after our risk manager audit.
 
 ### Community
 The community has built a booming digital economy, bold new ways for creators to hedge against scams online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet.
