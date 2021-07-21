@@ -11,6 +11,7 @@ Our doctrine is you can get fooled by all other shit coins, but Deathcoin will a
 
 ### Why Deathcoin?
 ![image](https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/one-mourning-woman-at-a-funeral-comments-paul-noth.jpg)
+
 Deathcoin has a deep connection with the deceased. One of our founding fathers died of acute propofol intoxication after a massive loss in participating a Ponzi scheme. It is inevitable to get scammed, but Deathcoin will make you feel better because you know that you are richer than yesterday. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
 
 Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do not bring flowers to a funeral, it is not environmentally friendly. Harness the power of Blockchain technology and send some real currency to your loved one. Insert Deathcoins into the coffin.  
