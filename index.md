@@ -7,18 +7,20 @@ Deathcoin (Token symbol: DIE) is a technology that united all investors who have
 
 ``Fool me once, shame on you! Fool me twice?``
 
-Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. Deathcoin (DIE) is fully decentralized and there is no exit strategy for our core team members. Unlike other cryptocurrencies, Deathcoin is not a pump and dump coin. It is the cryptocurrency that you can trust. Deathcoin’s price can only go up and you will experience a perpetual Bull market in Deathcoin. You do not have to worry about your down payment, medical bill, kid's college tuition in the future. Deathcoin has got you covered. Plan your all-weather retirement portfolio with Deathcoin now. Deathcoin will last longer than you and will be one of your great legacy.
+Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. Deathcoin (DIE) is fully decentralized and there is no exit strategy for our core team members. Unlike other cryptocurrencies, Deathcoin is not a pump and dump coin. It is the cryptocurrency that you can trust. Deathcoin’s price can only go up and you will experience a perpetual Bull market in Deathcoin. Plan your all-weather retirement portfolio with Deathcoin now. You do not have to worry about your down payment, medical bill, kid's college tuition in the future anymore. Deathcoin has got you covered.  Deathcoin will last longer than you and will be one of your tremendous legacies.
 
 ### Why Deathcoin?
 
-Deathcoin has a deep connection with the deceased. One of our founding fathers died of acute propofol intoxication after a massive loss in participating a Ponzi scheme. It is inevitable to get scammed, but Deathcoin will make you feel better because you know that you are richer than yesterday. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
+Deathcoin has a deep connection with the deceased. One of our founding fathers died of acute propofol intoxication after a massive loss in participating a Ponzi scheme. It is inevitable to get scammed, but Deathcoin will make you feel better, safer, stronger because you will be richer than yesterday. In supporting Deathcoin, you are supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its enthusiastic volunteers.
 
-Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do not bring flowers to a funeral, it is not environmentally friendly. Harness the power of Blockchain technology and send some real currency to your loved one. Insert Deathcoins into the coffin.  
+Deathcoin - you can use it for a funeral, veneration of the dead or donation. No more flowers in a funeral, it is not environmentally friendly. Digitalized your condolosence and Harness the power of Blockchain technology and send some real currency to your loved one. Insert Deathcoins into the coffin and you will get the utmost respect from our community.  
 
 
 ### Deathcoin as an insurance
 
-Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge other asset by controlling liqudity with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. 
+Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge against other asset by controlling liqudity with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. 
+
+```When the federal reserve dilutes and steal your money from your bank, Deathcoin will protect you humbly and earn you an extravagant profit. - Antonio, Our in-house Economist ```
 
 ### Deathcoin smart insurance
 The Deathcoin smart insurance will protect you from all sorts of financial crisis. It is an intelligent, proprietary fail-safe mechanism designed and tested rigorously, by our industry researchers, built on top of the Trc20 blockchain with a smart contract. During major financial crashes, our automated intelligent liqudity controlling system will retire a calculated amount of Deathcoin. The price of the remaining Deathcoin will rise and protect you from the gay bears.
@@ -64,7 +66,7 @@ We will have our subreddit soon.
 
 
 ### Our team
-We come from different fields. We are a team of engineer, statistics professor, risk management analyst, banker, doctor, lawyer, physicist. We all have one thing in common. We were victims of a ponzi scheme and we swore to protect everyone from a ponzi scheme.
+We come from different fields. We are a team of Engineer, Economist, Risk management analyst, Banker, Doctor, Lawyer and physicist. We all have one thing in common. We were victims of a ponzi scheme and we swore to protect everyone from a ponzi scheme.
 
 
 ### Support or Contact
