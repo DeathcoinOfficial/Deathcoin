@@ -18,7 +18,9 @@ Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do
 
 ### Deathcoin as an insurance
 
-Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge other asset by controlling liqudity with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. 
+Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge other asset by controlling liqudity with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. Furthermore, Deathcoin is fully decentralized and everyone is the owner.
+
+![image](https://www.askcody.com/hubfs/cetralized-vs-discetralized-workplace5.png)
 
 
 ### Deathcoin smart insurance
