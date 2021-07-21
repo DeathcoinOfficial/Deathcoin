@@ -7,9 +7,9 @@ Deathcoin (Token symbol: DIE) is a technology that united all investors who have
 
 ``Fool me once, shame on you! Fool me twice?``
 
-Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. DIE is fully decentralized and there is no exit strategy for our core team members. Deathcoin’s price can only go up and you will experience a perpetual Bull market in Deathcoin.
+Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. Deathcoin (DIE) is fully decentralized and there is no exit strategy for our core team members. Unlike other cryptocurrencies, Deathcoin is not a pump and dump coin. It is the cryptocurrency that you can trust. Deathcoin’s price can only go up and you will experience a perpetual Bull market in Deathcoin. You do not have to worry about your down payment, medical bill, kid's college tuition in the future. Deathcoin has got you covered. Plan your retirement with Deathcoin because it will stay until you die.
 
-One of our founding fathers died of acute propofol intoxication after a massive loss in participating in a Ponzi scheme. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
+Deathcoin has a deep connection with the deceased. One of our founding fathers died of acute propofol intoxication after a massive loss in participating a Ponzi scheme. It is inevitable to get scammed, but Deathcoin will make you feel better because you know that you are richer than yesterday. In supporting Deathcoin, you will also be supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its volunteers.
 
 Deathcoin - you can use it for a funeral, veneration of the dead or donation. Do not bring flowers to a funeral, it is not environmentally friendly. Harness the power of Blockchain technology and send some real currency to your loved one. Insert Deathcoins into the coffin.  
 
@@ -26,10 +26,12 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 - [ ] Gay bears
 
 # How to get Deathcoin?
-1. You can go to a decentralized exchange like [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER) to buy Deathcoin (DIE). Please not that you need TronLink to open the [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER). Our Deathcoin is linked with Tron (Trx). More currency will be supported soon.
+1. You can go to a decentralized exchange like [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER) to buy Deathcoin (DIE). Please note that you need TronLink to open [Just swap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER). Our Deathcoin is linked with Tron (Trx). More currency will be supported soon.
 2. You can support our Twitter by retweeting our post and send back a screen capture of your retweet. 
 3. If you are a victim of Troncase, you can send it to us on Twitter and we will send Deathcoin to you. 
 
+### Deathcoin deposit smart contract
+Will be launched soon.
 
 ### Community
 The community has built a booming digital economy, bold new ways for creators to hedge against scams online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet.
