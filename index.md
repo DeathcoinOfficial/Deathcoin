@@ -51,12 +51,17 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 3. If you are a victim of Troncase, you can send it to us on Twitter and we will send Deathcoin to you. 
 
 
+### Covid-19 contribution
+For every death due to Covid-19, 1 DIE will be sent to our deceased founder wallet address. There is no way to retrieve the Deathcoin unless our founder revives. We want to show our sincere support to the Covid-19 victims and Deathcoin is a symbol of hope in the afterlife. 
+
+
 ### Community
 The community has built a booming digital economy, bold new ways for creators to hedge against scams online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet.
 
 We will have our subreddit soon.
 
 ![til](https://media.tenor.com/images/9eeb440b74b6faa7bf8563f12ba9a5c9/tenor.gif)
+
 
 ### Our team
 We come from different fields. We are a team of engineer, statistics professor, risk management analyst, banker, doctor, lawyer, physicist. We all have one thing in common. We were victims of a ponzi scheme and we swore to protect everyone from a ponzi scheme.
