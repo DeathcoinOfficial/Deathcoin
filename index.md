@@ -30,7 +30,7 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 
 ### How to get Deathcoin?
 
-![image](https://miro.medium.com/max/1200/1*acGt7q10btIOc1BTTnt0xA.png)
+![image](https://www.recast1.org/images/logos/JustSwap.png)
 
 1. We partner with the most trusted decentralized exchange [Justswap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER). You can buy Deathcoin (DIE) in [Justswap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER). Please note that you need [TronLink](https://www.tronlink.org/) to open [Justswap](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER). Copy this [link](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER) and paste it in your Tronlink browser. Our Deathcoin is linked with Tron (Trx). More currency will be supported soon.
 2. You can support our Twitter by retweeting our post and send back a screen capture of your retweet. 
