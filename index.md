@@ -4,7 +4,7 @@
 
 ## What is Deathcoin?
 
-Deathcoin is a fully decentralized functional death registries. Everyone can register death-related data on our blockchain without gas fee. Deathcoin has a deep connection with the deceased. One of our founding fathers died of acute propofol intoxication after a massive loss in participating a Ponzi scheme. It is inevitable to get scammed, but Deathcoin will make you feel better, safer, stronger because you will be richer than yesterday. In supporting Deathcoin, you are supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its enthusiastic volunteers.
+Deathcoin is a fully decentralized functional death registries. Everyone can register death-related material on our blockchain without gas fee. Deathcoin has a deep connection with the deceased. One of our founding fathers died of acute propofol intoxication after a massive loss in participating a Ponzi scheme. It is inevitable to get scammed, but Deathcoin will make you feel better, safer, stronger because you will be richer than yesterday. In supporting Deathcoin, you are supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its enthusiastic volunteers.
 
 Deathcoin - you can use it for a funeral, veneration of the dead or donation. No flowers would be killed in a funeral again. Digitalized your condolosence and Harness the power of Blockchain technology and send real currency to your loved one. Insert Deathcoins into the coffin and you will receive the utmost respect from the dead.  
 
