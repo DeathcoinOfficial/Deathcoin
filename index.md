@@ -9,7 +9,7 @@ Deathcoin is a fully decentralized functional death registries. Everyone can reg
 Deathcoin - you can use it for a funeral, veneration of the dead or donation. No flowers would be killed in a funeral again. Digitalized your condolosence and Harness the power of Blockchain technology and send real currency to your loved one. Insert Deathcoins into the coffin and you will receive the utmost respect from the dead.  
 
 * * *
-# Why Deathcoin?
+## Why Deathcoin?
 
 Deathcoin (Token symbol: DIE) is an open source peer-to-peer technology that united all investors who have been involved in scam and Ponzi projects. These investors usually never learn. 
 
@@ -31,7 +31,9 @@ Our doctrine is you can get fooled by all other shit coins, but Deathcoin will a
 - Fully functional death registries which can reduce storage and network cost of a government
 - No more new issue, only reducing money supply
 
-## Deathcoin as an insurance
+* * *
+
+### Deathcoin as an insurance
 
 Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, derivatives, cryptocurrencies. The price is designed to hedge against other asset by controlling liqudity with the help of a revolution smart contract. In laymen's term, Deathcoin is an insurance to your portfolio. 
 
@@ -39,7 +41,7 @@ Deathcoin is the perfect hedge for every assets, including stocks, bonds, etfs, 
 >When the federal reserve dilutes and steal your money from your bank, Deathcoin will protect you humbly and earn you an extravagant profit. - Dr. Ho, Deathcoin's in-house Economist 
 
 
-## Deathcoin smart insurance
+### Deathcoin smart insurance
 The Deathcoin smart insurance will protect you from all sorts of financial crisis. It is an intelligent, proprietary fail-safe mechanism designed and tested rigorously, by our industry researchers, built on top of the Trc20 blockchain with a smart contract. During major financial crashes, our automated intelligent liqudity controlling system will retire a calculated amount of Deathcoin. The price of the remaining Deathcoin will rise and protect you from the gay bears.
 
 The smart contract is currently under Alpha phase and will be launched after our risk management analyst's audit.
@@ -64,7 +66,7 @@ def smart_insurance(financial_crisis_indicator):
 
 * * *
 
-## A fairer financial system
+### A fairer financial system
 
 ![image](https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2020/02/components-of-Decentralized-finance.png)
 
@@ -74,7 +76,7 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 
 * * *
 
-## Get started
+### Get started
 [Deathcoin official website](https://deathcoinofficial.github.io/Deathcoin/) is your portal into the world of Deathcoin. The tech is new and ever-evolving – it helps to have a guide. Here's what we recommend you do if you want to dive in.
 
 - [x] Diamand hands
@@ -82,7 +84,7 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 - [ ] Avoid scams
 - [x] Invest in Deathcoins
 
-## How to get Deathcoin?
+### How to get Deathcoin?
 
 ![image](https://www.recast1.org/images/logos/JustSwap.png)
 
@@ -92,12 +94,12 @@ Today, billions of people can’t open bank accounts, others have their loan blo
 
 
 * * *
-## Covid-19 contribution
+### Covid-19 contribution
 For every death due to Covid-19, 1 DIE will be sent to our deceased founder wallet address. There is no way to retrieve the Deathcoin unless our founder revives. We want to show our sincere support to the Covid-19 victims and Deathcoin is a symbol of hope in the afterlife. 
 
 
 * * *
-## Community
+### Community
 The community has built a booming digital economy, bold new ways for creators to hedge against scams online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet.
 
 We will have our subreddit soon.
@@ -105,9 +107,9 @@ We will have our subreddit soon.
 ![til](https://media.tenor.com/images/9eeb440b74b6faa7bf8563f12ba9a5c9/tenor.gif)
 
 
-## Our team
+### Our team
 We come from different fields. We are a team of Engineer, Economist, Risk management analyst, Banker, Doctor, Lawyer and Physicist. We all have one thing in common. We were victims of a ponzi scheme and we swore to protect everyone from a ponzi scheme.
 
 * * *
-## Support or Contact
+### Support or Contact
 Deathcoin (DIE) Free dopping will be coming soon. Check out our [Twitter](https://mobile.twitter.com/deathcoinoffic1/media), [reddit](https://www.reddit.com/user/DeathcoinOfficial) and we’ll help you sort it out!
