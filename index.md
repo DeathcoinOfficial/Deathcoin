@@ -2,7 +2,14 @@
 
 * * *
 
-# What is Deathcoin?
+## What is Deathcoin?
+
+Deathcoin is a fully decentralized functional death registries. Everyone can register death-related data on our blockchain without gas fee. Deathcoin has a deep connection with the deceased. One of our founding fathers died of acute propofol intoxication after a massive loss in participating a Ponzi scheme. It is inevitable to get scammed, but Deathcoin will make you feel better, safer, stronger because you will be richer than yesterday. In supporting Deathcoin, you are supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its enthusiastic volunteers.
+
+Deathcoin - you can use it for a funeral, veneration of the dead or donation. No flowers would be killed in a funeral again. Digitalized your condolosence and Harness the power of Blockchain technology and send real currency to your loved one. Insert Deathcoins into the coffin and you will receive the utmost respect from the dead.  
+
+* * *
+# Why Deathcoin?
 
 Deathcoin (Token symbol: DIE) is an open source peer-to-peer technology that united all investors who have been involved in scam and Ponzi projects. These investors usually never learn. 
 
@@ -10,16 +17,17 @@ Deathcoin (Token symbol: DIE) is an open source peer-to-peer technology that uni
 Fool me once, shame on you! Fool me twice?
 ```
 
-Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. Deathcoin (DIE) is fully decentralized and there is no exit strategy for our core team members. Unlike other cryptocurrencies, Deathcoin is not a pump and dump coin. It is the cryptocurrency that you can trust. Deathcoin’s price can only go up and you will experience a perpetual Bull market in Deathcoin. Plan your all-weather retirement portfolio with Deathcoin now. You do not have to worry about your down payment, medical bill, kid's college tuition in the future anymore. Deathcoin has got you covered.  Deathcoin will last longer than you and will be one of your tremendous legacies.
+Our doctrine is you can get fooled by all other shit coins, but Deathcoin will always be with you. Deathcoin (DIE) is fully decentralized and there is no exit strategy for our core team members. Unlike other cryptocurrencies, Deathcoin is not a pump and dump coin. It is the cryptocurrency that you can trust. Deathcoin’s price can only go up and you will experience a perpetual Bull market in Deathcoin. Plan your all-weather retirement portfolio with Deathcoin now. You do not have to worry about your down payment, medical bill, kid's college tuition in the future anymore, Deathcoin has got you covered.  Deathcoin will last longer than you and it will be one of your tremendous legacies.
+
 
 * * *
 
-## Why Deathcoin?
-
-Deathcoin has a deep connection with the deceased. One of our founding fathers died of acute propofol intoxication after a massive loss in participating a Ponzi scheme. It is inevitable to get scammed, but Deathcoin will make you feel better, safer, stronger because you will be richer than yesterday. In supporting Deathcoin, you are supporting suicide prevention as we make our periodic Deathcoin donation to the Samaritans and its enthusiastic volunteers.
-
-Deathcoin - you can use it for a funeral, veneration of the dead or donation. No more flowers in a funeral, it is not environmentally friendly. Digitalized your condolosence and Harness the power of Blockchain technology and send some real currency to your loved one. Insert Deathcoins into the coffin and you will get the utmost respect from our community.  
-
+### Deathcoin advantages
+- Blazing fast 
+- Absolute 0 gas fee
+- Trusted and experienced team members
+- Fully functional death registries which can reduce storage and network cost of a government
+- No more new issue, only reducing money supply
 
 ## Deathcoin as an insurance
 
