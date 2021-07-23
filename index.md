@@ -1,6 +1,4 @@
-<video muted autoplay controls>
-    <source src="https://github.com/DeathcoinOfficial/Deathcoin/blob/gh-pages/media/deathcoin.mp4" type="video/mp4">
-</video>
+![Deathcoin](https://user-images.githubusercontent.com/87663508/126729327-47bc67e1-da82-473b-b573-26d9ac1ffe7a.gif)
 
 * * *
 
