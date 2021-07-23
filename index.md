@@ -1,5 +1,5 @@
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://github.com/DeathcoinOfficial/Deathcoin/blob/gh-pages/media/deathcoin.mp4">
+<video muted autoplay controls>
+    <source src="https://github.com/DeathcoinOfficial/Deathcoin/blob/gh-pages/media/deathcoin.mp4" type="video/mp4">
 </video>
 
 * * *
