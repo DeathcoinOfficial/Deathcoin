@@ -1,4 +1,7 @@
-![](https://media.giphy.com/media/FUd1PYXnXagXEVttds/giphy.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87663508/126730297-7c206442-10ab-4bf5-9aff-f27222645800.PNG">
+</p>
+
 * * *
 
 ## What is Deathcoin?
