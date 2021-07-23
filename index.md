@@ -1,4 +1,4 @@
-![til](https://github.com/DeathcoinOfficial/Deathcoin/blob/gh-pages/media/Deathcoin.gif?raw=true)
+![til](https://github.com/DeathcoinOfficial/Deathcoin/blob/gh-pages/media/Deathcoin.gif)
 
 * * *
 
