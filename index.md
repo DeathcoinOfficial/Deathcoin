@@ -1,5 +1,4 @@
-![til](https://github.com/DeathcoinOfficial/Deathcoin/blob/gh-pages/media/Deathcoin.gif)
-
+![](https://media.giphy.com/media/FUd1PYXnXagXEVttds/giphy.gif)
 * * *
 
 ## What is Deathcoin?
