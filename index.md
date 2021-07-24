@@ -28,7 +28,7 @@ Our doctrine is you can get fooled by all other shit coins, but Deathcoin will a
 - Maxmimum security
 - Owned by no one, everyone is Deathcoin's owner
 - Developed by trusted and experienced team members
-- Fully functional death registries which can reduce storage and network cost of a government
+- Fully functional death registries which can reduce storage and network cost
 - No more new issue, only reducing money supply
 
 * * *
