@@ -11,9 +11,8 @@
 3. Open your and set up your wallet according to their instructions. Please note that you must have sufficient Tron (TRX) in order to buy Deathcoin. You can buy it from [Binance](https://www.binance.com/en) or [Coinbase](www.coinbase.com)
 * * *
 4. Click browser at the bottom
-5. * * *
-<img src="https://user-images.githubusercontent.com/87663508/126937694-124eda1f-1d2e-44f4-bb33-a43632d96a79.PNG
-" width="200" height="360">
+<img src="https://user-images.githubusercontent.com/87663508/126937694-124eda1f-1d2e-44f4-bb33-a43632d96a79.PNG" width="200" height="360">
+
 * * *
 5. Copy this [Justswap link ](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER)and paste it to the browser address.
 * * *
