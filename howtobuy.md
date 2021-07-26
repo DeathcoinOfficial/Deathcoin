@@ -12,7 +12,8 @@
 * * *
 4. Click browser at the bottom
 5. * * *
-<img src="https://user-images.githubusercontent.com/87663508/126858301-c5a91e1f-ea4f-4578-8699-bb9cadc058d6.PNG" width="200" height="360">
+<img src="https://user-images.githubusercontent.com/87663508/126937694-124eda1f-1d2e-44f4-bb33-a43632d96a79.PNG
+" width="200" height="360">
 * * *
 5. Copy this [Justswap link ](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER)and paste it to the browser address.
 * * *
