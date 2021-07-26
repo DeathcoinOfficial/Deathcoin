@@ -16,13 +16,19 @@
 * * *
 5. Copy this [Justswap link ](https://justswap.org/?lang=en-US#/scan/detail/trx/TByyFshwBL16vH7rWFEcN83RRbBjZUQ7ER)and paste it to the browser address.
 * * *
+
 <img src="https://user-images.githubusercontent.com/87663508/126858304-c644b588-d9be-4483-b5d0-a22824a00ded.PNG" width="200" height="360">
 * * *
+
 6. Open the browser with that link and click "trade"
 * * *
+
 <img src="https://user-images.githubusercontent.com/87663508/126858305-21a3791f-8827-41a8-a03e-d6afeb2879c2.PNG" width="200" height="360">
 * * *
+
 7. Type in the amount you want to buy in JustSwap and click "Swap"
 * * *
+
 <img src="https://user-images.githubusercontent.com/87663508/126858306-eb9dc451-015c-4c93-8ef3-5653a8fc5629.PNG" width="200" height="360">
+
 * * *
